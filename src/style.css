@@ -1,5 +1,21 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+.enunciado {
+    color: black;
+    text-decoration: solid;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+}
+.logo-footer {
+  background-image: url("./assets/img/mia-talerico-meme.jpg");
+  width: 800px;
+  height: 500px; 
+}
+#excuse{
+    color:green;
+    text-align: center;
+    font-family: 'Arial', Times, serif;
 }
